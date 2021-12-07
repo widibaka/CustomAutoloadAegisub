@@ -106,6 +106,9 @@ function ganti_banyak(sub, sel)
 		:gsub("Itu bukanlah","Itu bukanlah")
 		:gsub("itu bukanlah","bukan itu")
 		:gsub("Apa masalahnya","Ada apa")
+		:gsub("Apa yang kau pikir kau lakukan","Apa-apaan kau ini")
+		:gsub("Apa yang kau inginkan","Apa maumu")
+		:gsub("Kau bisa bilang bahwa","Bisa dibilang")
 
 		
 		-- Jiriki de!
